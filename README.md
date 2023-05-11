@@ -27,11 +27,13 @@
 </div>
 
 <h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
 - 🔭 I’m currently studying in SYLU ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 📨 My email address is `lucp@88.com` Welcome to contact me 👏🏻 ~
-- 
+
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
@@ -39,20 +41,20 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoLucp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoLucp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
 <table align="center">
   <tr>
     <td align="center">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decolucp&layout=compact&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api?username=DecoLucp&amp;show_icons=true&amp;theme=radical" alt="DecoLucp's GitHub stats" title="" />
     </td>
     <td align="left">
-      ![DecoLucp's GitHub stats](https://github-readme-stats.vercel.app/api?username=decolucpa&show_icons=true)
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucp&repo=github-readme-stats" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--
 **DecoLucp/DecoLucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
