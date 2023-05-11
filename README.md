@@ -45,16 +45,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=DecoLucp&amp;show_icons=true&amp" alt="DecoLucp's GitHub stats" title="" />
     </td>
     <td align="left">
-	
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/></a>
     </td>
   </tr>
-</table> -->
+</table>
 
 <!--
 **DecoLucp/DecoLucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
