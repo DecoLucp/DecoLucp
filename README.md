@@ -1,5 +1,6 @@
-### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/decolucp?template=classic&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=2&config.timezone=Asia%2FShanghai&config.twemoji=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoLucp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DecoLucp/DecoLucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
