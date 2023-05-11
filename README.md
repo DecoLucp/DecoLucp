@@ -42,16 +42,16 @@
 </picture>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoLucp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoLucp&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DecoLucp&amp;show_icons=true&amp;theme=radical" alt="DecoLucp's GitHub stats" title="" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DecoLucp&amp;show_icons=true&amp" alt="DecoLucp's GitHub stats" title="" />
     </td>
     <td align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucp&repo=github-readme-stats" />
+	
     </td>
   </tr>
 </table> -->
